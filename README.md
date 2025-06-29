@@ -14,4 +14,4 @@ A lightweight, modern React project bootstrapped with **Vite** and styled using 
 ---
  
 ## Screeenshot
-<img src="bgColorChanger/src/assets/image.png" width=100>
+<img src="bgColorChanger/src/assets/image.png" width=500>
