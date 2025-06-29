@@ -30,5 +30,5 @@ A simple counter application built using **React 19**, **Vite 7**, and styled wi
 ---
  
 ## Screeenshot
-<img src="" width=600>
+<img src="counter/src/assets/image.png" width=600>
 <img src="bgColorChanger/src/assets/image.png" width=600>
